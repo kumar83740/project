@@ -1,0 +1,14 @@
+C:\Users\gnkumar\SampleWebsite\bin\Debug\net6.0\SampleWebsite.exe
+C:\Users\gnkumar\SampleWebsite\bin\Debug\net6.0\SampleWebsite.deps.json
+C:\Users\gnkumar\SampleWebsite\bin\Debug\net6.0\SampleWebsite.runtimeconfig.json
+C:\Users\gnkumar\SampleWebsite\bin\Debug\net6.0\SampleWebsite.dll
+C:\Users\gnkumar\SampleWebsite\bin\Debug\net6.0\SampleWebsite.pdb
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\SampleWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\SampleWebsite.AssemblyInfoInputs.cache
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\SampleWebsite.AssemblyInfo.cs
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\SampleWebsite.csproj.CoreCompileInputs.cache
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\SampleWebsite.dll
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\refint\SampleWebsite.dll
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\SampleWebsite.pdb
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\SampleWebsite.genruntimeconfig.cache
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net6.0\ref\SampleWebsite.dll

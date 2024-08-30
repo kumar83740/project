@@ -1,0 +1,6 @@
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net5.0\SampleWebsite.csproj.AssemblyReference.cache
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net5.0\SampleWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net5.0\SampleWebsite.AssemblyInfoInputs.cache
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net5.0\SampleWebsite.AssemblyInfo.cs
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net5.0\SampleWebsite.csproj.CoreCompileInputs.cache
+C:\Users\gnkumar\SampleWebsite\obj\Debug\net5.0\SampleWebsite.MvcApplicationPartsAssemblyInfo.cache
